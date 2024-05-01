@@ -49,9 +49,6 @@ python app.py
 ```
 This will start a Flask web server locally. You can then send POST requests to `http://localhost:5000/predict` with image data to get predictions from the model.
 
-## Demo
-You can access a live demo of the deployed model at [Demo Link](#) (replace with your actual demo link).
-
 ## Requirements
 - Python 3.x
 - TensorFlow
